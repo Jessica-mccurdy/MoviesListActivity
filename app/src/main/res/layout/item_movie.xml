@@ -7,6 +7,8 @@
 
 
 
+
+
     <ImageView
         android:id="@+id/ivPosterImage"
         android:layout_width="90dp"
@@ -29,6 +31,7 @@
         android:paddingTop="0dp"
         android:paddingRight="0dp"
         android:text="Movie title"
+        android:textColor="#ffffff"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -41,7 +44,8 @@
         android:paddingLeft="120dp"
         android:paddingTop="0dp"
         android:paddingRight="0dp"
-        android:text="Moview overview and synopsis"
+        android:text="Movie overview and synopsis"
+        android:textColor="#ffffff"
         app:layout_constraintTop_toTopOf="parent"
         tools:layout_editor_absoluteX="7dp" />
 </android.support.constraint.ConstraintLayout>

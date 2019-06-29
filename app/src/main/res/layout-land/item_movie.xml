@@ -32,6 +32,7 @@
         android:paddingLeft="0dp"
         android:paddingRight="0dp"
         android:text="Movie Title"
+        android:textColor="#ffffff"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/ivBackdropImage"
@@ -47,6 +48,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:text="TextView"
+        android:textColor="#ffffff"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/ivBackdropImage"
         app:layout_constraintTop_toBottomOf="@+id/tvTitle" />
