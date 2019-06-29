@@ -2,7 +2,7 @@
 
 Movies List activity shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: **X** hours spent in total
+Time spent: **16** hours spent in total
 
 ## User Stories
 
@@ -24,19 +24,19 @@ The following **stretch** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Jessica-mccurdy/MoviesListActivity/blob/master/recording_20190628_174855%20(1).mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Video created with screen recorder on device - my network connection stopped my emulator from working right before submission -- the picture quality is a result of the recording. In the actual app images are crisp and clear.
 
 ## Notes
 
-I had a bit of trouble understanding all of the dependencies and new versions of libraries
+I had a bit of trouble understanding all of the dependencies and new versions of libraries. 
 
 ## Open-source libraries used
 
