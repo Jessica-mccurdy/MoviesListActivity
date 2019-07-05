@@ -2,7 +2,7 @@
 
 Movies List activity shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: **X** hours spent in total
+Time spent: **16** hours spent in total
 
 ## User Stories
 
@@ -12,31 +12,31 @@ The following **required** functionality is completed:
 
 The following **stretch** features are implemented:
 
-* [ ] For each movie displayed, user can see the following details:
+* [x] For each movie displayed, user can see the following details:
   * [x] Title, Poster Image, Overview (Portrait mode)
-  * [ ] Title, Backdrop Image, Overview (Landscape mode)
+  * [x] Title, Backdrop Image, Overview (Landscape mode)
 * [x] Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
-* [ ] Allow user to view details of the movie including ratings and popularity within a separate activity
-* [ ] Improved the user interface by experimenting with styling and coloring.
+* [x] Allow user to view details of the movie including ratings and popularity within a separate activity
+* [x] Improved the user interface by experimenting with styling and coloring.
 * [x] Apply rounded corners for the poster or background images using [Glide transformations](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#transformations)
 * [ ] Apply the popular [Butterknife annotation library](http://guides.codepath.org/android/Reducing-View-Boilerplate-with-Butterknife) to reduce boilerplate code.
 * [ ] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Jessica-mccurdy/MoviesListActivity/blob/master/recording_20190628_174855%20(1).mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Video created with screen recorder on device - my network connection stopped my emulator from working right before submission -- the picture quality is a result of the recording. In the actual app images are crisp and clear.
 
 ## Notes
 
-I had a bit of trouble understanding all of the dependencies and new versions of libraries
+I had a bit of trouble understanding all of the dependencies and new versions of libraries. 
 
 ## Open-source libraries used
 
